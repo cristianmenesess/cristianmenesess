@@ -1,4 +1,4 @@
-## Opa me chamo Cristian Oliveira, e sou Desenvolvedor Front-End!
+## Opa, me chamo Cristian Oliveira, e sou Desenvolvedor Front-End!
 
 
 
