@@ -3,7 +3,7 @@
 
 ## Ferramentas e Tecnologias  
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; margin-bottom: 20px;"">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
