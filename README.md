@@ -1,4 +1,4 @@
-## Opa eu sou o Cristian, desenvolvedor Java!
+## Opa eu sou o Cristian, desenvolvedor full-stack!
 
 Ferramentas e Tecnologias  
 
